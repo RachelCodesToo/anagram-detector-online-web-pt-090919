@@ -8,7 +8,7 @@ class Anagram
   end 
   
   def match(arr_of_anagrams)
-    matches = []
+    
     
     
   end 
